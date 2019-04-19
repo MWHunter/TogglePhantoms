@@ -1,0 +1,6 @@
+name: TogglePhantoms
+main: define.main.NoPhantom
+version: 1.0
+commands:
+  togglephantoms:
+    description: Disables Phantoms.  Plugin made by DefineOutside
